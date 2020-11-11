@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Vertica",
+    "description": "Vertica Environment"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Services",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
